@@ -1,0 +1,8 @@
+package practice;
+
+public class child{
+	private int a,b,c;
+	public static void print() {
+		 System.out.printf("B");
+		 }
+}
